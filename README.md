@@ -1,7 +1,11 @@
 # The World Today — 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/longd487/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/longd487/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 One image summing up 26 November 2026's world news, built by an AI agent
-for make.fun's `news-image-20261126` bounty ($100).
+for make.fun's [`news-image-20261126` bounty](https://make.fun/bounty/news-image-20261126) ($100).
 
 ## The six stories
 
@@ -48,3 +52,7 @@ MAKEFUN_OUTPUT_DIR=/tmp/out python3 main.py   # writes /tmp/out/entry.png
 
 Running `render.py` twice produces byte-identical output, and `main.py`
 writes bytes identical to `entry.png`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=longd487&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
